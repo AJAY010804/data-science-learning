@@ -54,7 +54,7 @@ Data Science combines programming, statistics, and domain knowledge — and I lo
 Feel free to connect or collaborate!
 
 - 📧 Email: ajay.dilip.yemmewar@gmail.com
-- 🌐 [LinkedIn]
+- 🌐 [LinkedIn]: www.linkedin.com/in/ajay-dilip-yemmewar-b9b5372b3
 - ⭐ Don’t forget to Star the repo if you find it helpful!
 
 ---
